@@ -147,7 +147,7 @@ DEPENDENCIES
   puma (~> 3.11)
   rack-cors
   rails (~> 5.2.2)
-  redis (~> 4.0)
+  redis (~> 4.1)
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
@@ -157,4 +157,4 @@ RUBY VERSION
    ruby 2.5.3p105
 
 BUNDLED WITH
-   1.17.1
+   1.17.3
